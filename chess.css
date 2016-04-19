@@ -1,0 +1,19 @@
+button {
+	background-color: #41D8FF;
+}
+
+div.wrapper {
+	background-color: #ABD8FF;
+	height: 100%;
+	width: 100%;
+}
+
+#POS {
+	position: relative;
+	left: 60px;
+}
+
+#fenIn {
+	width: 480px;
+	left: 60px;
+}
